@@ -1,6 +1,6 @@
 # DS-CH-32845
 
-<h3> Introduction to the Data Science| CH32845 class - </h3>
+<h3> Introduction to the Data Science | CH32845 class - </h3>
 
 <p><b>Hello there! Welcome to my Github repository</b></p>
 <p>I'm Julieta, ( <a href="https://github.com/Ju-oogle" target="_blank"><img src="https://img.shields.io/badge/About-green?&style=for-the-flat&logo=aboutdotme&logoColor=white"></a> ) a Jr. Data Analyst from <b>Mendoza, Argentina</b>.</p>
